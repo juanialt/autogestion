@@ -1,0 +1,261 @@
+{
+    "courses": [{
+        "code": "1344/10",
+        "name": "Quimica",
+        "year": 1,
+        "semester": 1,
+        "correlatives": []
+    }, {
+        "code": "2092/10",
+        "name": "Sistemas De Representacion",
+        "year": 1,
+        "semester": 1,
+        "correlatives": []
+    }, {
+        "code": "7301/10",
+        "name": "Introduccion A La Matematica",
+        "year": 1,
+        "semester": 1,
+        "correlatives": ["2090/10"]
+    }, {
+        "code": "8015/10",
+        "name": "Introduccion A La Informatica",
+        "year": 1,
+        "semester": 1,
+        "correlatives": ["2089/10"]
+    }, {
+        "code": "1618/10",
+        "name": "Calculo En Una Variable",
+        "year": 1,
+        "semester": 2,
+        "correlatives": ["7301/10"]
+    }, {
+        "code": "2093/10",
+        "name": "Aspectos Profesionales Para Ingenieria",
+        "year": 1,
+        "semester": 2,
+        "correlatives": []
+    }, {
+        "code": "7256/10",
+        "name": "Arquitectura De Computadores",
+        "year": 1,
+        "semester": 2,
+        "correlatives": []
+    }, {
+        "code": "7307/10",
+        "name": "Algoritmos Y Estructuras De Datos I",
+        "year": 1,
+        "semester": 2,
+        "correlatives": ["8015/10"]
+    }, {
+        "code": "2089/10",
+        "name": "Curso Preparatorio De Comprension Lectora",
+        "year": 1,
+        "semester": 3,
+        "correlatives": []
+    }, {
+        "code": "2090/10",
+        "name": "Curso Preparatorio De Matematica",
+        "year": 1,
+        "semester": 3,
+        "correlatives": []
+    }, {
+        "code": "3527/10",
+        "name": "Fisica I",
+        "year": 2,
+        "semester": 1,
+        "correlatives": ["1618/10"]
+    }, {
+        "code": "7014/10",
+        "name": "Algebra",
+        "year": 2,
+        "semester": 1,
+        "correlatives": ["7301/10"]
+    }, {
+        "code": "7309/10",
+        "name": "Algoritmos Y Estructuras De Datos II",
+        "year": 2,
+        "semester": 1,
+        "correlatives": ["7307/10"]
+    }, {
+        "code": "1620/10",
+        "name": "Sistemas Operativos I",
+        "year": 2,
+        "semester": 2,
+        "correlatives": ["7307/10","7256/10"]
+    }, {
+        "code": "1623/10",
+        "name": "Calculo En Varias Variables",
+        "year": 2,
+        "semester": 2,
+        "correlatives": ["7014/10","1618/10"]
+    }, {
+        "code": "3617/10",
+        "name": "Fisica II",
+        "year": 2,
+        "semester": 2,
+        "correlatives": ["3527/10"]
+    }, {
+        "code": "7025/10",
+        "name": "Matematica Discreta",
+        "year": 2,
+        "semester": 2,
+        "correlatives": ["7301/10"]
+    }, {
+        "code": "/1001/10",
+        "name": "Ingles Tecnico",
+        "year": 2,
+        "semester": 3,
+        "correlatives": []
+    }, {
+        "code": "1189/10",
+        "name": "Ingenieria De Software I",
+        "year": 3,
+        "semester": 1,
+        "correlatives": ["7307/10","/1001/10"]
+    }, {
+        "code": "1343/10",
+        "name": "Economia",
+        "year": 3,
+        "semester": 1,
+        "correlatives": ["1618/10"]
+    }, {
+        "code": "2077/10",
+        "name": "Base De Datos I",
+        "year": 3,
+        "semester": 1,
+        "correlatives": ["7014/10","1620/10"]
+    }, {
+        "code": "7319/10",
+        "name": "Probabilidades Y Estadistica",
+        "year": 3,
+        "semester": 1,
+        "correlatives": ["1623/10"]
+    }, {
+        "code": "1190/10",
+        "name": "Ingenieria De Software II",
+        "year": 3,
+        "semester": 2,
+        "correlatives": ["2077/10","1189/10"]
+    }, {
+        "code": "2079/10",
+        "name": "Sistemas De Informacion Y Organizacion",
+        "year": 3,
+        "semester": 2,
+        "correlatives": []
+    }, {
+        "code": "2094/10",
+        "name": "Lenguajes De Programacion",
+        "year": 3,
+        "semester": 2,
+        "correlatives": ["7309/10"]
+    }, {
+        "code": "7315/10",
+        "name": "Fundamentos De Comunicacion",
+        "year": 3,
+        "semester": 2,
+        "correlatives": ["1623/10"]
+    }, {
+        "code": "1291/10",
+        "name": "Modelos Y Simulacion",
+        "year": 4,
+        "semester": 1,
+        "correlatives": ["7307/10","7319/10"]
+    }, {
+        "code": "1350/10",
+        "name": "Sistemas Inteligentes",
+        "year": 4,
+        "semester": 1,
+        "correlatives": ["7309/10","7025/10"]
+    }, {
+        "code": "1354/10",
+        "name": "Gestion Ambiental",
+        "year": 4,
+        "semester": 1,
+        "correlatives": ["1344/10"]
+    }, {
+        "code": "7283/10",
+        "name": "Teleprocesos Y Redes I",
+        "year": 4,
+        "semester": 1,
+        "correlatives": ["7315/10","1620/10"]
+    }, {
+        "code": "7329/10",
+        "name": "Lenguajes Formales",
+        "year": 4,
+        "semester": 1,
+        "correlatives": ["7307/10","7025/10"]
+    }, {
+        "code": "1638/10",
+        "name": "Arquitectura Web",
+        "year": 4,
+        "semester": 2,
+        "correlatives": ["1189/10","1190/10","7283/10"]
+    }, {
+        "code": "2078/10",
+        "name": "Base De Datos II",
+        "year": 4,
+        "semester": 2,
+        "correlatives": ["2077/10"]
+    }, {
+        "code": "2081/10",
+        "name": "Gestion De Proyectos Y Calidad",
+        "year": 4,
+        "semester": 2,
+        "correlatives": ["1190/10"]
+    }, {
+        "code": "7292/10",
+        "name": "Teleprocesos Y Redes II",
+        "year": 4,
+        "semester": 2,
+        "correlatives": ["7283/10"]
+    }, {
+        "code": "1629/10",
+        "name": "Sistemas Operativos II",
+        "year": 5,
+        "semester": 1,
+        "correlatives": ["1620/10","7292/10"]
+    }, {
+        "code": "2083/10",
+        "name": "Direccion Estrategica",
+        "year": 5,
+        "semester": 1,
+        "correlatives": ["2079/10"]
+    }, {
+        "code": "2095/10",
+        "name": "Proyecto Final De Ingenieria I",
+        "year": 5,
+        "semester": 1,
+        "correlatives": ["2078/10","2081/10","7292/10"]
+    }, {
+        "code": "1635/10",
+        "name": "Arquitectura Avanzada",
+        "year": 5,
+        "semester": 2,
+        "correlatives": ["1635/10","1620/10","7292/10"]
+    }, {
+        "code": "2085/10",
+        "name": "Inteligencia De Negocios",
+        "year": 5,
+        "semester": 2,
+        "correlatives": ["2078/10","1350/10"]
+    }, {
+        "code": "2088/10",
+        "name": "Auditoria Y Seguridad Informatica",
+        "year": 5,
+        "semester": 2,
+        "correlatives": ["2081/10","1189/10","7283/10"]
+    }, {
+        "code": "2091/10",
+        "name": "Practica Profesional Supervisada",
+        "year": 5,
+        "semester": 2,
+        "correlatives": []
+    }, {
+        "code": "2096/10",
+        "name": "Proyecto Final De Ingenieria II",
+        "year": 5,
+        "semester": 2,
+        "correlatives": ["2095/10"]
+    }]
+}
